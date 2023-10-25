@@ -13,3 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Here on Github
 - ⚡ Fun fact: I almost drowned once and now swim at least 1 km at week.
 -->
+
+- 🔭 I’m currently working on Check some Reports as part of my rol as Riskt Technoogical Auditor
+- 🌱 I’m currently learning a lot of stuff 
+- 👯 I’m looking to collaborate on Open projects in Java, NodeJs and Python
+- 🤔 I’m looking for help with learning Rust
+- 💬 Ask me about Oracle SQL, Java 
+- 📫 How to reach me: Here on Github
+- ⚡ Fun fact: I almost drowned once and now swim at least 1 km at week.
